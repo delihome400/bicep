@@ -30,7 +30,7 @@ resource appServicePlan 'Microsoft.Web/serverFarms@2022-03-01' = {
 
 resource appServiceApp 'Microsoft.Web/sites@2022-03-01' = { 
 
-  name: 'toy-product-launch-2023' 
+  name: 'websitemitchelaz4002023' 
 
   location: 'westus3' 
 
